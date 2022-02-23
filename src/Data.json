@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Tandy",
+    "sections": [
+      {
+        "id": 1,
+        "name": "Deborah",
+        "client_id": 1,
+        "link": [
+          {
+            "id": 1,
+            "section_id": 1,
+            "name": "Brit"
+          },
+          {
+            "id": 2,
+            "section_id": 1,
+            "name": "Caty"
+          },
+          {
+            "id": 3,
+            "section_id": 1,
+            "name": "Prince"
+          },
+          {
+            "id": 4,
+            "section_id": 1,
+            "name": "Rebecka"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Nikkie",
+    "sections": [
+      {
+        "id": 1,
+        "name": "ESoll",
+        "client_id": 2,
+        "link": [
+          {
+            "id": 1,
+            "section_id": 1,
+            "name": "Raine"
+          },
+          {
+            "id": 2,
+            "section_id": 1,
+            "name": "Petrina"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "jhone",
+        "client_id": 2,
+        "link": [
+          {
+            "id": 1,
+            "section_id": 2,
+            "name": "Rihana"
+          },
+          {
+            "id": 2,
+            "section_id": 2,
+            "name": "parry"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "youte",
+        "client_id": 2,
+        "link": []
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Cybil",
+    "sections": [
+      {
+        "id": 1,
+        "name": "Erroll",
+        "client_id": 3,
+        "link": [
+          {
+            "id": 1,
+            "section_id": 1,
+            "name": "Raine"
+          },
+          {
+            "id": 2,
+            "section_id": 1,
+            "name": "Petrina"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Myrwyn",
+        "client_id": 3,
+        "link": []
+      }
+    ]
+  }
+]

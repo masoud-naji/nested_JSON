@@ -1,0 +1,29 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background: rgba(233, 188, 253, 0.4);
+}
+
+button {
+  background: rgb(185, 223, 238);
+  padding: 0.1rem 0.2rem;
+  font-size: 1.4;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  border-radius: 0.32rem;
+}
+
+.delete {
+  padding: 0.13rem 0.3rem 0.15rem;
+  color: white;
+  background: red;
+  font-size: 0.7rem;
+  border-radius: 0.32rem;
+}
+
+ul {
+  margin-left: 3rem;
+  text-align: left;
+}
